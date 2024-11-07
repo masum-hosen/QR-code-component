@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Solution Links
 
 - [GitHub Pages](https://github.com/masum-hosen/QR-code-component)
-- [Vercel](<[qr-code-component-ten-plum.vercel.app](https://qr-code-component-ten-plum.vercel.app/)>)
+- [Netlify](https://magical-raindrop-23a1e8.netlify.app/)
 
 ## My process
 
