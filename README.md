@@ -6,10 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./assets/Screenshot%202024-11-07%20at%2011-38-57%20Frontend%20Mentor%20QR%20code%20component.png)
 
-### Links
+### Solution Links
 
-- Solution URL: [](https://github.com/masum-hosen/QR-code-component)
-- Live Site URL: [](https://qr-code-component-ten-plum.vercel.app/)
+- [GitHub Pages](https://github.com/masum-hosen/QR-code-component)
+- [Vercel](<[qr-code-component-ten-plum.vercel.app](https://qr-code-component-ten-plum.vercel.app/)>)
 
 ## My process
 
